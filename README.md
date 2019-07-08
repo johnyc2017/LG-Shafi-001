@@ -1,8 +1,7 @@
-looking-glass code challange
+lookingG code challange --
 automationpractice.com is an end-end e-commerce website. It covers the complete online shopping workflow.
 
 Tools and Language Utilized:
-
 
 • Selenium Web Driver
 
