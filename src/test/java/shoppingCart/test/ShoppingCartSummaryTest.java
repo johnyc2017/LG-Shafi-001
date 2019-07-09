@@ -37,7 +37,7 @@ public class ShoppingCartSummaryTest extends BasePage {
 	Logger msgLogger;
 
 	// Test Data
-	String Username = "lookingglastest@mailinator.com";
+	String Username = "shafitest@mailinator.com";
 	String Password = "abcd1234";
 
 	@Severity(SeverityLevel.BLOCKER)
